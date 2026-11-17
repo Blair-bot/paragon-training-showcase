@@ -27,7 +27,7 @@ An online training and certification system I built for **Paragon Inspection Sol
   - access to grant;
   - emails that failed to send;
   - data requests.
-- Access rules worked out automatically. Tru-fit app access is only granted once a trainee holds Part 1 and a Part 2. System-admin training (AU01) grants data-page access instead.
+- Access rules worked out automatically. Tru-fit app access is only granted once a trainee holds Part 1 and a Part 2. System-admin training (AU01) grants Tru-fit administrator access instead.
 - A full student record:
   - progress, and attempts used on each section;
   - every answer given;
