@@ -17,7 +17,7 @@ An online training and certification system I built for **Paragon Inspection Sol
 - Answer checkpoint questions to unlock the next section. Attempts are limited and questions are shuffled on every attempt.
 - Sit a single-attempt final exam with an 80% pass mark. Exams are marked on the server, so the answers never reach the browser.
 - Receive a **Certificate of Training** and a **Certificate of Examination** as PDFs by email. The examination certificate has an expiry date and a renewal window.
-- See and download their own data, and send requests (copy, correction, deletion, reasonable adjustment).
+- Send Paragon a request through **Ask Paragon**: help with a course, a copy of a course, a reasonable adjustment, or a data request.
 
 **For administrators**
 - A dashboard listing what needs action:
@@ -26,7 +26,7 @@ An online training and certification system I built for **Paragon Inspection Sol
   - practical sign-offs;
   - access to grant;
   - emails that failed to send;
-  - data requests.
+  - requests from trainees.
 - Access rules worked out automatically. Tru-fit app access is only granted once a trainee holds Part 1 and a Part 2. System-admin training (AU01) grants Tru-fit administrator access instead.
 - A full student record:
   - progress, and attempts used on each section;
@@ -47,7 +47,7 @@ An online training and certification system I built for **Paragon Inspection Sol
 | ![Admin dashboard](screenshots/admin-dashboard.png) **Admin dashboard**: everything waiting for action | ![Student record](screenshots/student-record.png) **Student record**: progress, attempts, certificates, audit log |
 | ![Approve a course](screenshots/approve-course.png) **Approving a course request** and setting attempt limits | ![Trainee course page](screenshots/trainee-course.png) **Trainee course page** |
 | ![Certificates](screenshots/certificates.png) **Generated certificates** (PDF) | ![Verify a certificate](screenshots/verify-certificate.png) **Public verification**: withdrawn certificate |
-| ![My data](screenshots/my-data.png) **My data**: self-service data access and requests | |
+| ![Ask Paragon](screenshots/ask-paragon.png) **Ask Paragon**: help, course copies, adjustments and data requests | |
 
 ## How it's built
 
